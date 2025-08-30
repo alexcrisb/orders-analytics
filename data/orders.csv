@@ -1,0 +1,201 @@
+order_id,order_date,customer_id,product,category,unit_price,quantity,country
+ORD001,2025-07-01,CUST001,Wireless Headphones,Electronics,89.99,1,USA
+ORD002,2025-07-01,CUST002,Cotton T-Shirt,Clothing,24.99,2,Canada
+ORD003,2025-07-02,CUST003,Python Programming Book,Books,39.99,1,UK
+ORD004,2025-07-02,CUST001,Smartphone Case,Electronics,19.99,1,USA
+ORD005,2025-07-03,CUST004,Garden Hose,Home & Garden,45.99,1,Australia
+ORD006,2025-07-03,CUST005,Running Shoes,Clothing,129.99,1,Germany
+ORD007,2025-07-04,CUST006,Coffee Maker,Electronics,199.99,1,France
+ORD008,2025-07-04,CUST002,Jeans,Clothing,79.99,1,Canada
+ORD009,2025-07-05,CUST007,Data Science Handbook,Books,49.99,1,USA
+ORD010,2025-07-05,CUST008,Plant Pot,Home & Garden,15.99,3,UK
+ORD011,2025-07-06,CUST009,Laptop Stand,Electronics,59.99,1,Japan
+ORD012,2025-07-06,CUST003,Fiction Novel,Books,14.99,2,UK
+ORD013,2025-07-07,CUST010,Yoga Mat,Home & Garden,29.99,1,USA
+ORD014,2025-07-07,CUST001,USB Cable,Electronics,12.99,2,USA
+ORD015,2025-07-08,CUST011,Winter Jacket,Clothing,159.99,1,Canada
+ORD016,2025-07-08,CUST012,Cookbook,Books,29.99,1,Australia
+ORD017,2025-07-09,CUST004,Lawn Mower,Home & Garden,299.99,1,Australia
+ORD018,2025-07-09,CUST013,Bluetooth Speaker,Electronics,79.99,1,Germany
+ORD019,2025-07-10,CUST014,Dress Shirt,Clothing,49.99,1,France
+ORD020,2025-07-10,CUST005,History Book,Books,34.99,1,Germany
+ORD021,2025-07-11,CUST015,Gaming Mouse,Electronics,69.99,1,USA
+ORD022,2025-07-11,CUST006,Espresso Cups,Home & Garden,24.99,4,France
+ORD023,2025-07-12,CUST016,Sneakers,Clothing,89.99,1,UK
+ORD024,2025-07-12,CUST007,Programming Guide,Books,44.99,1,USA
+ORD025,2025-07-13,CUST017,Tablet,Electronics,249.99,1,Japan
+ORD026,2025-07-13,CUST008,Garden Tools,Home & Garden,89.99,1,UK
+ORD027,2025-07-14,CUST018,Polo Shirt,Clothing,39.99,2,Canada
+ORD028,2025-07-14,CUST009,Web Design Book,Books,39.99,1,Japan
+ORD029,2025-07-15,CUST019,Wireless Charger,Electronics,34.99,1,Australia
+ORD030,2025-07-15,CUST010,Outdoor Chair,Home & Garden,79.99,2,USA
+ORD031,2025-07-16,CUST020,Hoodie,Clothing,54.99,1,Germany
+ORD032,2025-07-16,CUST011,Science Fiction,Books,19.99,1,Canada
+ORD033,2025-07-17,CUST021,Monitor,Electronics,299.99,1,France
+ORD034,2025-07-17,CUST012,BBQ Grill,Home & Garden,199.99,1,Australia
+ORD035,2025-07-18,CUST022,Casual Pants,Clothing,69.99,1,USA
+ORD036,2025-07-18,CUST013,Mechanical Keyboard,Electronics,119.99,1,Germany
+ORD037,2025-07-19,CUST023,Biography,Books,24.99,1,UK
+ORD038,2025-07-19,CUST014,Watering Can,Home & Garden,19.99,1,France
+ORD039,2025-07-20,CUST024,Smartwatch,Electronics,199.99,1,Japan
+ORD040,2025-07-20,CUST015,Formal Shoes,Clothing,119.99,1,USA
+ORD041,2025-07-21,CUST025,Travel Guide,Books,29.99,1,Canada
+ORD042,2025-07-21,CUST016,Garden Bench,Home & Garden,149.99,1,UK
+ORD043,2025-07-22,CUST026,Webcam,Electronics,89.99,1,Australia
+ORD044,2025-07-22,CUST017,Summer Dress,Clothing,79.99,1,Japan
+ORD045,2025-07-23,CUST027,Art Book,Books,49.99,1,Germany
+ORD046,2025-07-23,CUST018,Flower Seeds,Home & Garden,9.99,5,Canada
+ORD047,2025-07-24,CUST028,Power Bank,Electronics,39.99,1,France
+ORD048,2025-07-24,CUST019,Cardigan,Clothing,89.99,1,Australia
+ORD049,2025-07-25,CUST029,Mystery Novel,Books,16.99,1,USA
+ORD050,2025-07-25,CUST020,Patio Umbrella,Home & Garden,89.99,1,Germany
+ORD051,2025-07-26,CUST030,Headset,Electronics,149.99,1,UK
+ORD052,2025-07-26,CUST021,Business Suit,Clothing,299.99,1,France
+ORD053,2025-07-27,CUST031,Self-Help Book,Books,22.99,1,Japan
+ORD054,2025-07-27,CUST022,Garden Sprinkler,Home & Garden,34.99,1,USA
+ORD055,2025-07-28,CUST032,Graphics Card,Electronics,599.99,1,Canada
+ORD056,2025-07-28,CUST023,Leather Jacket,Clothing,199.99,1,UK
+ORD057,2025-07-29,CUST033,Cookbook Collection,Books,59.99,1,Australia
+ORD058,2025-07-29,CUST024,Outdoor Lighting,Home & Garden,79.99,2,Japan
+ORD059,2025-07-30,CUST034,Wireless Earbuds,Electronics,129.99,1,Germany
+ORD060,2025-07-30,CUST025,Workout Clothes,Clothing,49.99,2,Canada
+ORD061,2025-07-31,CUST035,Technical Manual,Books,79.99,1,France
+ORD062,2025-07-31,CUST026,Compost Bin,Home & Garden,59.99,1,UK
+ORD063,2025-08-01,CUST036,Gaming Laptop,Electronics,1299.99,1,USA
+ORD064,2025-08-01,CUST027,Designer Jeans,Clothing,149.99,1,Australia
+ORD065,2025-08-02,CUST037,Philosophy Book,Books,34.99,1,Japan
+ORD066,2025-08-02,CUST028,Garden Statue,Home & Garden,89.99,1,Germany
+ORD067,2025-08-03,CUST038,Drone,Electronics,399.99,1,Canada
+ORD068,2025-08-03,CUST029,Evening Gown,Clothing,249.99,1,France
+ORD069,2025-08-04,CUST039,Poetry Collection,Books,19.99,1,UK
+ORD070,2025-08-04,CUST030,Greenhouse Kit,Home & Garden,299.99,1,USA
+ORD071,2025-08-05,CUST001,Phone Charger,Electronics,24.99,1,USA
+ORD072,2025-08-05,CUST031,Casual Blazer,Clothing,99.99,1,Australia
+ORD073,2025-08-06,CUST040,Romance Novel,Books,12.99,2,Japan
+ORD074,2025-08-06,CUST032,Lawn Fertilizer,Home & Garden,29.99,3,Germany
+ORD075,2025-08-07,CUST041,Smart TV,Electronics,799.99,1,Canada
+ORD076,2025-08-07,CUST033,Winter Boots,Clothing,129.99,1,France
+ORD077,2025-08-08,CUST042,Educational Book,Books,44.99,1,UK
+ORD078,2025-08-08,CUST034,Garden Hose Reel,Home & Garden,49.99,1,USA
+ORD079,2025-08-09,CUST043,Fitness Tracker,Electronics,99.99,1,Australia
+ORD080,2025-08-09,CUST035,Silk Scarf,Clothing,79.99,1,Japan
+ORD081,2025-08-10,CUST044,Thriller Novel,Books,17.99,1,Germany
+ORD082,2025-08-10,CUST036,Outdoor Heater,Home & Garden,199.99,1,Canada
+ORD083,2025-08-11,CUST045,VR Headset,Electronics,299.99,1,France
+ORD084,2025-08-11,CUST037,Sports Jersey,Clothing,59.99,1,UK
+ORD085,2025-08-12,CUST046,Reference Book,Books,89.99,1,USA
+ORD086,2025-08-12,CUST038,Garden Shed,Home & Garden,599.99,1,Australia
+ORD087,2025-08-13,CUST047,Action Camera,Electronics,199.99,1,Japan
+ORD088,2025-08-13,CUST039,Swimwear,Clothing,39.99,2,Germany
+ORD089,2025-08-14,CUST048,Language Learning,Books,49.99,1,Canada
+ORD090,2025-08-14,CUST040,Fire Pit,Home & Garden,149.99,1,France
+ORD091,2025-08-15,CUST002,Laptop Bag,Electronics,49.99,1,Canada
+ORD092,2025-08-15,CUST041,Formal Dress,Clothing,179.99,1,UK
+ORD093,2025-08-16,CUST049,Health Book,Books,29.99,1,USA
+ORD094,2025-08-16,CUST042,Pruning Shears,Home & Garden,24.99,1,Australia
+ORD095,2025-08-17,CUST050,Smart Speaker,Electronics,89.99,1,Japan
+ORD096,2025-08-17,CUST043,Leather Belt,Clothing,49.99,1,Germany
+ORD097,2025-08-18,CUST003,Adventure Novel,Books,21.99,1,UK
+ORD098,2025-08-18,CUST044,Garden Trellis,Home & Garden,39.99,2,Canada
+ORD099,2025-08-19,CUST051,Digital Camera,Electronics,449.99,1,France
+ORD100,2025-08-19,CUST045,Casual Shoes,Clothing,69.99,1,USA
+ORD101,2025-08-20,CUST052,Business Book,Books,39.99,1,Australia
+ORD102,2025-08-20,CUST046,Outdoor Cushions,Home & Garden,59.99,2,Japan
+ORD103,2025-08-21,CUST004,Tablet Case,Electronics,29.99,1,Australia
+ORD104,2025-08-21,CUST047,Rain Jacket,Clothing,89.99,1,Germany
+ORD105,2025-08-22,CUST053,Fiction Series,Books,79.99,1,Canada
+ORD106,2025-08-22,CUST048,Garden Mulch,Home & Garden,19.99,5,France
+ORD107,2025-08-23,CUST054,Portable Speaker,Electronics,59.99,1,UK
+ORD108,2025-08-23,CUST049,Denim Jacket,Clothing,79.99,1,USA
+ORD109,2025-08-24,CUST005,Travel Book,Books,24.99,1,Germany
+ORD110,2025-08-24,CUST050,Patio Set,Home & Garden,399.99,1,Australia
+ORD111,2025-08-25,CUST055,Gaming Chair,Electronics,199.99,1,Japan
+ORD112,2025-08-25,CUST051,Vintage T-Shirt,Clothing,34.99,2,Canada
+ORD113,2025-08-26,CUST056,Horror Novel,Books,18.99,1,France
+ORD114,2025-08-26,CUST052,Bird Feeder,Home & Garden,29.99,1,UK
+ORD115,2025-08-27,CUST006,Wireless Mouse,Electronics,39.99,1,France
+ORD116,2025-08-27,CUST053,Flannel Shirt,Clothing,54.99,1,USA
+ORD117,2025-08-28,CUST057,Science Book,Books,59.99,1,Australia
+ORD118,2025-08-28,CUST054,Garden Fountain,Home & Garden,199.99,1,Japan
+ORD119,2025-08-29,CUST058,Security Camera,Electronics,149.99,1,Germany
+ORD120,2025-08-29,CUST055,Activewear Set,Clothing,89.99,1,Canada
+ORD121,2025-08-30,CUST007,Classic Literature,Books,29.99,1,USA
+ORD122,2025-08-30,CUST056,Hammock,Home & Garden,79.99,1,France
+ORD123,2025-08-01,CUST008,External Hard Drive,Electronics,89.99,1,UK
+ORD124,2025-08-01,CUST057,Cardigan Sweater,Clothing,69.99,1,Australia
+ORD125,2025-08-02,CUST059,Graphic Novel,Books,24.99,1,Japan
+ORD126,2025-08-02,CUST058,Solar Lights,Home & Garden,49.99,3,Germany
+ORD127,2025-08-03,CUST060,Bluetooth Headphones,Electronics,119.99,1,Canada
+ORD128,2025-08-03,CUST059,Maxi Dress,Clothing,99.99,1,France
+ORD129,2025-08-04,CUST009,Children's Book,Books,14.99,3,Japan
+ORD130,2025-08-04,CUST060,Garden Edging,Home & Garden,34.99,4,UK
+ORD131,2025-08-05,CUST061,Projector,Electronics,299.99,1,USA
+ORD132,2025-08-05,CUST010,Wool Coat,Clothing,199.99,1,USA
+ORD133,2025-08-06,CUST062,Art History Book,Books,49.99,1,Australia
+ORD134,2025-08-06,CUST061,Outdoor Rug,Home & Garden,89.99,1,Germany
+ORD135,2025-08-07,CUST063,Smart Watch Band,Electronics,24.99,2,Canada
+ORD136,2025-08-07,CUST062,Linen Pants,Clothing,79.99,1,France
+ORD137,2025-08-08,CUST011,Memoir,Books,27.99,1,Canada
+ORD138,2025-08-08,CUST063,Wind Chimes,Home & Garden,19.99,2,Japan
+ORD139,2025-08-09,CUST064,Streaming Device,Electronics,49.99,1,UK
+ORD140,2025-08-09,CUST012,Sundress,Clothing,59.99,1,Australia
+ORD141,2025-08-10,CUST065,Photography Book,Books,39.99,1,USA
+ORD142,2025-08-10,CUST064,Deck Stain,Home & Garden,29.99,2,Germany
+ORD143,2025-08-11,CUST066,Noise Cancelling Headphones,Electronics,249.99,1,Canada
+ORD144,2025-08-11,CUST065,Cocktail Dress,Clothing,129.99,1,France
+ORD145,2025-08-12,CUST013,Fantasy Novel,Books,19.99,2,Germany
+ORD146,2025-08-12,CUST066,Garden Arch,Home & Garden,149.99,1,Japan
+ORD147,2025-08-13,CUST067,Wireless Keyboard,Electronics,79.99,1,UK
+ORD148,2025-08-13,CUST014,Pajama Set,Clothing,44.99,1,France
+ORD149,2025-08-14,CUST068,Cookbook Series,Books,69.99,1,Australia
+ORD150,2025-08-14,CUST067,Outdoor Storage,Home & Garden,199.99,1,USA
+ORD151,2025-08-15,CUST069,Phone Stand,Electronics,19.99,1,Canada
+ORD152,2025-08-15,CUST068,Cashmere Scarf,Clothing,99.99,1,Germany
+ORD153,2025-08-16,CUST015,Historical Fiction,Books,26.99,1,USA
+ORD154,2025-08-16,CUST069,Raised Garden Bed,Home & Garden,129.99,1,Japan
+ORD155,2025-08-17,CUST070,Tablet Stand,Electronics,34.99,1,France
+ORD156,2025-08-17,CUST070,Trench Coat,Clothing,179.99,1,France
+ORD157,2025-08-18,CUST016,Poetry Anthology,Books,22.99,1,UK
+ORD158,2025-08-18,CUST017,Garden Kneeler,Home & Garden,39.99,1,Japan
+ORD159,2025-08-19,CUST071,USB Hub,Electronics,29.99,1,Australia
+ORD160,2025-08-19,CUST018,Fleece Hoodie,Clothing,49.99,1,Canada
+ORD161,2025-08-20,CUST072,True Crime Book,Books,24.99,1,USA
+ORD162,2025-08-20,CUST019,Greenhouse Thermometer,Home & Garden,14.99,2,Australia
+ORD163,2025-08-21,CUST073,Laptop Cooler,Electronics,39.99,1,Germany
+ORD164,2025-08-21,CUST020,Midi Skirt,Clothing,54.99,1,Germany
+ORD165,2025-08-22,CUST074,Self-Improvement,Books,32.99,1,France
+ORD166,2025-08-22,CUST021,Outdoor Planters,Home & Garden,69.99,2,France
+ORD167,2025-08-23,CUST075,Car Charger,Electronics,19.99,1,Japan
+ORD168,2025-08-23,CUST022,Bomber Jacket,Clothing,89.99,1,USA
+ORD169,2025-08-24,CUST076,Diet Cookbook,Books,29.99,1,UK
+ORD170,2025-08-24,CUST023,Garden Stepping Stones,Home & Garden,49.99,3,UK
+ORD171,2025-08-25,CUST077,Portable Charger,Electronics,34.99,1,Canada
+ORD172,2025-08-25,CUST024,Wrap Dress,Clothing,74.99,1,Japan
+ORD173,2025-08-26,CUST078,Travel Memoir,Books,21.99,1,Australia
+ORD174,2025-08-26,CUST025,Garden Tool Set,Home & Garden,89.99,1,Canada
+ORD175,2025-08-27,CUST079,Smart Doorbell,Electronics,149.99,1,Germany
+ORD176,2025-08-27,CUST026,Cardigan Set,Clothing,119.99,1,UK
+ORD177,2025-08-28,CUST080,Fitness Book,Books,34.99,1,France
+ORD178,2025-08-28,CUST027,Outdoor Swing,Home & Garden,299.99,1,Australia
+ORD179,2025-08-29,CUST081,Webcam Light,Electronics,24.99,1,USA
+ORD180,2025-08-29,CUST028,Silk Blouse,Clothing,89.99,1,Japan
+ORD181,2025-08-30,CUST082,Parenting Book,Books,27.99,1,Canada
+ORD182,2025-08-30,CUST029,Garden Privacy Screen,Home & Garden,79.99,1,Germany
+ORD183,2025-07-15,CUST083,Gaming Headset,Electronics,99.99,1,France
+ORD184,2025-07-16,CUST084,Vintage Jeans,Clothing,94.99,1,UK
+ORD185,2025-07-17,CUST085,Investment Guide,Books,44.99,1,Australia
+ORD186,2025-07-18,CUST086,Patio Heater,Home & Garden,249.99,1,USA
+ORD187,2025-07-19,CUST087,Wireless Charger Pad,Electronics,29.99,2,Japan
+ORD188,2025-07-20,CUST088,Designer Handbag,Clothing,199.99,1,Canada
+ORD189,2025-07-21,CUST089,Mindfulness Book,Books,19.99,1,Germany
+ORD190,2025-07-22,CUST090,Garden Water Feature,Home & Garden,179.99,1,France
+ORD191,2025-07-23,CUST091,Phone Grip,Electronics,9.99,3,UK
+ORD192,2025-07-24,CUST092,Athletic Shorts,Clothing,29.99,2,Australia
+ORD193,2025-07-25,CUST093,Nutrition Guide,Books,36.99,1,USA
+ORD194,2025-07-26,CUST094,Outdoor Dining Set,Home & Garden,449.99,1,Japan
+ORD195,2025-07-27,CUST095,Bluetooth Adapter,Electronics,19.99,1,Canada
+ORD196,2025-07-28,CUST096,Evening Jacket,Clothing,149.99,1,Germany
+ORD197,2025-07-29,CUST097,Leadership Book,Books,42.99,1,France
+ORD198,2025-07-30,CUST098,Garden Gazebo,Home & Garden,599.99,1,UK
+ORD199,2025-07-31,CUST099,Screen Protector,Electronics,14.99,2,Australia
+ORD200,2025-08-01,CUST100,Formal Pants,Clothing,79.99,1,USA
